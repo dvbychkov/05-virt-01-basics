@@ -5,9 +5,9 @@
 Задача 1
 
 
-<img src = "img/1.JPG" width = 50%>
+<img src = "img/1.jpg" width = 50%>
 
-<img src = "img/2.JPG" width = 50%>
+<img src = "img/2.jpg" width = 50%>
 
 
 Задача 2
